@@ -1,4 +1,4 @@
-# HackerNews_Dataquest_Project
+# Hacker News Project ❤️
 
  This project is a guided project completed as part of the "Data Scientist in Python" curriculum on Dataquest.io. The project covers data cleaning and the use of the datetime package to find out during which hours posts receive the most comments.
 
